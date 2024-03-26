@@ -1,15 +1,9 @@
-# Project axel
+# LOGBOEK TMOGGERS
+### 26/03/2024
 
-Projectinformatie
+1. Toevoegen van eerste afbeeldingen
+2. Toevoegen van link en aangepaste kleuren
+3. Spelen met verschillende soorten headers.
 
-## Tips
 
-
-### Project starten
-
-1. Open Axel-HTML/index.html in een browser.
-
-### Ik ben met git aan het spelen
-
-Dit is een tekst omtrent git
 
