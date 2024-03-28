@@ -10,3 +10,8 @@
 2. Achtergrond kleuren toevoegen bij tekst
 3. Item informatie toevoegen + indented
 4. Externe links naar beplaade pagina's
+
+### 28/03/2024
+1. Nieuw kleurenpallet 
+2. Kader rond tekst
+3. CSS introduction
