@@ -1,5 +1,8 @@
 # Logboek Tmoggers
 
+### 29/03/2024
+1. Extern css bestand aanmaken voor styles
+2. Marges en padding introduction
 
 ### 28/03/2024
 1. Nieuw kleurenpallet 

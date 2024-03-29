@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(4, 3, 3);
+}
+h1 {
+    color:rgb(251, 251, 251); 
+    text-align: center; 
+    background-color: rgb(70, 17, 17);
+    border: 2px solid rgb(179, 84, 30);
+    padding: 30px;
+}
+h3 {
+    color:white; 
+    text-align: center; 
+    background-color: rgb(161, 51, 51); 
+    border: 2px solid rgb(179, 84, 30);
+}
