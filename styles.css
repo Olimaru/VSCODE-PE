@@ -45,11 +45,11 @@ h3 {
 .navbar2 ul{
     list-style-type: none;
     height: 100px;
+    background-color: black;
     background-image: url(img/background.jpg);
-    background-position: relative; top: 100px;left:100px;
+    background-position-x: 15%;
+    background-position-y: 15%;
     background-repeat: no-repeat;
-
-    background-size: cover;
     overflow: hidden;
 }
 .navbar2 a{
