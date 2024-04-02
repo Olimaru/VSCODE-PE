@@ -1,5 +1,11 @@
 # Logboek Tmoggers
 
+### 02/04/2024
+1. pages toevoegen
+2. Navigation bar toevoegen
+3. bugs ivm pages oplossen
+4. Categorieen toevoeg op pagina 2
+
 ### 29/03/2024
 1. Extern css bestand aanmaken voor styles
 2. Marges en padding introduction
