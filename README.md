@@ -1,5 +1,11 @@
 # Logboek Tmoggers
 
+### 03/04/2024
+1. extra paginas voor elke sub categorie
+2. dropdown knop met verschillende categorieen
+3. contact pagina, rooster toegevoegd
+4. alle paginas correct met elkaar verbonden
+
 ### 02/04/2024
 1. pages toevoegen
 2. Navigation bar toevoegen
