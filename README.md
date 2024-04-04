@@ -1,4 +1,8 @@
 # Logboek Tmoggers
+### 04/04/2024
+1. paginas mooier maken
+2. dropdown menu op elke pagina
+3. header aanpassen
 
 ### 03/04/2024
 1. extra paginas voor elke sub categorie
