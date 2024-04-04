@@ -1,6 +1,14 @@
+
 body {
     background-color: rgb(4, 3, 3);
     margin: 0px;
+    background-image: url(img/background2.jpg);
+    background-position-x: 50%;
+    background-position-y: 25%;
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
 }
 main{
     margin-left: 10px;
@@ -10,9 +18,18 @@ h1 {
     color:rgb(251, 251, 251); 
     text-align: center; 
     background-color: rgb(70, 17, 17);
-    border: 2px solid rgb(179, 84, 30);
-    padding: 30px;
+    border: none;
+    padding: 0px;
+    margin: 0px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 55px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    z-index: -1;
+
 }
+
 h3 {
     color:white; 
     text-align: center; 
@@ -28,6 +45,7 @@ h3 {
     padding: 0px;
     margin: 0px;
     overflow: hidden;
+    
 }
 .navbar a{
     color: white;
@@ -119,4 +137,39 @@ table {
 }
 .dropdown{
     display: inline-block;
+}
+.homenav{
+    display:inline-block;
+    position: fixed;
+    margin: 10px;
+    font
+}
+.homenav button{
+    background-color: hsla(0, 0%, 100%, 0);
+    color: white;
+    padding: 3px 5px;
+    border: none;
+    cursor: pointer;
+}
+.homenav:hover button{
+    background-color:hsla(0, 59%, 30%, 0.804) ;
+}
+.homenav a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+.homenav .contenthome{
+    display: none;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    min-width: 100px;
+    box-shadow: 2px 2px 5px rgb(33, 32, 32);
+}
+.homenav:hover .contenthome{
+    display: block;
+}
+.homenav a:hover{
+    background-color:hsla(0, 59%, 30%, 0.80) ;
 }
