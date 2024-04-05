@@ -1,4 +1,11 @@
 # Logboek Tmoggers
+
+### 05/04/2024
+1. idee veranden pagina 2
+2. nieuwe head nav
+3. contact aangepast
+4. wowhead idee toepassen bij character pagina
+
 ### 04/04/2024
 1. paginas mooier maken
 2. dropdown menu op elke pagina
