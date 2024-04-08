@@ -1,5 +1,10 @@
 # Logboek Tmoggers
 
+### 08/04/2024
+1. contact pagina veranderd naar footer
+2. pagina favoriete characters klaarzetten voor invoegen andere personages
+3. headers gefixt, werken nu zoals het moet
+
 ### 05/04/2024
 1. idee veranden pagina 2
 2. nieuwe head nav
