@@ -24,10 +24,11 @@ h1 {
     width: 100%;
     height: 50px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    
-
 }
-
+h1 a{
+    text-decoration: none;
+    color: white;
+}
 h3 {
     z-index: 50;
     color:white; 
@@ -154,9 +155,39 @@ h3 {
     width: 280px;
 }
 .char-lichking{
-    background: hsla(0, 0%, 13%, 0.80) url(img/lichking.jpg) no-repeat top left;
+    background: hsla(0, 0%, 13%, 0.40) url(img/lichking.jpg) no-repeat top left;
     border-radius: 5px;
     height: 410px;
+    margin-left: 70px;
+
+}
+.char-anduin{
+    background: hsla(0, 0%, 13%, 0.40) url(img/anduin.jpg) no-repeat top left;
+    border-radius: 5px;
+    height: 410px;
+    margin-left: 70px;
+
+}
+.char-varian{
+    background: hsla(0, 0%, 13%, 0.40) url(img/varian.jpg) no-repeat top left;
+    border-radius: 5px;
+    height: 410px;
+    margin-left: 70px;
+
+}
+.char-uther{
+    background: hsla(0, 0%, 13%, 0.40) url(img/uther.jpg) no-repeat top left;
+    border-radius: 5px;
+    height: 410px;
+    margin-left: 70px;
+
+}
+.char-illidan{
+    background: hsla(0, 0%, 13%, 0.40) url(img/illidan.jpg) no-repeat top left;
+    border-radius: 5px;
+    height: 410px;
+    margin-left: 70px;
+    
 
 }
 .char-info .char-name{
@@ -165,9 +196,9 @@ h3 {
     padding: 15px;
 }
 .char-info{
-    background: hsla(0, 0%, 13%, 0.80);
+    background: ;
     margin: 0 0 10px 10px;
-    margin-left: 280px;
+    margin-left: 300px;
 }
 
 h2{
@@ -208,5 +239,27 @@ h2{
     right: 0;
     left: 0;
     bottom: 0;
+    
+}
+.heroinfo{
+    max-width: 600px;
+    margin-left: 85px;
+}
+.heroname{
+    color: white;
+    box-sizing: inherit;
+}
+h4{
+    color:white; 
+    text-align: center;
+    margin: 0px;
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 5px 2px 2px black;
+    padding: 70px;
+}
+.herodescription a{
+    color: white;
+    text-shadow: 1px 2px 2px black;
     
 }

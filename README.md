@@ -1,5 +1,11 @@
 # Logboek Tmoggers
 
+### 09/04/2024
+1. contact pagina veranderd naar my characters
+2. favoriete character afgemaakt
+3. characters hun pagina zelf afgemaakt
+4. Logo, link naar homepagina gemaakt
+
 ### 08/04/2024
 1. contact pagina veranderd naar footer
 2. pagina favoriete characters klaarzetten voor invoegen andere personages
