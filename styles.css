@@ -141,45 +141,48 @@ h3 {
     
 }
 .hub-grp{
-    background-color:hsla(0, 0%, 13%, 0.616) ;
+    background-color: hsla(0, 0%, 13%, 0.80);
     clear: both;
     position: relative;
     margin-bottom: 20px;
-    margin-left: 5%;
-    margin-right: 15%;
-    z-index: 0;
-    
 }
-.lichking{
-    background: hsla(0, 0%, 13%, 0.616) url(img/lichking.png);
-    border-radius: 4px;
-    background-repeat: no-repeat;
-    height: 401px;
-    
-    
-    
-}
-.hub-img{
+.hub-img a{
     position: absolute;
     top: 0;
     left: 0;
     height: 100%;
     width: 280px;
-    
 }
-.hub-info{
-    
+.char-lichking{
+    background: hsla(0, 0%, 13%, 0.80) url(img/lichking.jpg) no-repeat top left;
+    border-radius: 5px;
+    height: 410px;
+
+}
+.char-info .char-name{
+    background-color: hsla(0, 0%, 13%, 0.80);
+    margin-left: 280px;
     padding: 15px;
-    margin-left: 300px;
-    height: 80px;
-    
-    
+}
+.char-info{
+    background: hsla(0, 0%, 13%, 0.80);
+    margin: 0 0 10px 10px;
+    margin-left: 280px;
 }
 
 h2{
     color: white;
     text-shadow: 2px 2px 5px black;
     text-align: left;
+    float: left;
+    
+}
+.c6{
+    text-decoration: none;
+    color: white;
+}
+.c6:hover{
+    color: yellow;
 }
 .name{
     padding: 0px;
@@ -205,5 +208,5 @@ h2{
     right: 0;
     left: 0;
     bottom: 0;
-    margin-bottom: 0px;  
+    
 }
