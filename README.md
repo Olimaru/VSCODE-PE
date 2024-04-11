@@ -1,5 +1,12 @@
 # Logboek Tmoggers
 
+### 11/04/2024
+1. h1 aangepast
+2. dropdown menu aangepast
+3. footer aangepast
+4. welcome titel aangepast marges
+5. Character navigatie aangepast
+
 ### 09/04/2024
 1. contact pagina veranderd naar my characters
 2. favoriete character afgemaakt
