@@ -1,5 +1,11 @@
 # Logboek Tmoggers
 
+### 15/04/2024
+1. Bootstrap toevoegen
+2. toepassen op my characters
+3. afbeeldingen voor layout te vinden
+4. href op eerste afbeelding naar nieuwe map voor characters
+
 ### 11/04/2024
 1. h1 aangepast
 2. dropdown menu aangepast
